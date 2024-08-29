@@ -1,0 +1,95 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body {
+    margin: 0;
+    padding: 0;
+    background: url("login4.jpg") no-repeat;
+    background-size: cover;
+}
+
+.login-box {
+    color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 280px;
+    transform: translate(-50%, -50%);
+}
+
+.login-box h1 {
+    float: left;
+    font-size: 40px;
+    border-bottom: 7px solid #4caf50;
+    margin-bottom: 50px;
+    padding: 13px 0
+}
+
+.textbox {
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 3px solid #4caf50
+}
+
+.textbox i {
+    width: 25px;
+    float: left;
+    text-align: center;
+}
+
+.textbox input {
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 145px;
+    float: left;
+    margin: 0 10px;
+}
+
+.btn {
+    width: 90px;
+    background: none;
+    border: 2px solid green;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    height: 45px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.textbox a {
+    width: 50px;
+    background: none;
+    border: 1px solid green;
+    float: right;
+    font-size: 12px;
+    cursor: pointer;
+    height: 25px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-decoration: none;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.click a {
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 20px;
+    color: rgb(255, 245, 245);
+}
+
+.click a:hover {
+    color: greenyellow;
+}
+
+.btn:hover {
+    background-color: rgb(8, 209, 8);
+    color: black;
+    border-color: greenyellow;
+}

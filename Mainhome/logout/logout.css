@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('logout2.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.ti {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    background-color: rgba(135, 160, 160, 0.5);
+}
