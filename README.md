@@ -1,0 +1,3 @@
+The main objective of this project is building a website which will help farmers from Indian villages to sell their products to different city markets. It is a computerized approach for better and clear marketing.
+Farmers will get unique interface where they can avail everything right from learning to the  market information they can perform marketing, get the current rates of market, get in touch with SMS through the cell phones, can gather the knowledge of different schemes and apply as well as check status of application.
+This website will act as unique and secure way to  perform agro-marketing.
